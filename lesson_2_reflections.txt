@@ -1,0 +1,4 @@
+Q1) What happens when you initialize a repository? Why do you need to do it?
+  
+  A) intialized empty git repository in the home directory and .git directory is created and it is not show in the users.
+  
