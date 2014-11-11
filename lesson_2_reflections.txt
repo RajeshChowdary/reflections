@@ -13,3 +13,8 @@ Q2) How is the staging area different from the working directory and the reposit
  Q3) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
      A) suppose when we created the different versions of the same version its helful. bacause it not effect to the original file
+ 
+ Q4) How do the diagrams help you visualize the branch structure?
+  
+     A) it helps to easily understand the branches in the repository.
+     
