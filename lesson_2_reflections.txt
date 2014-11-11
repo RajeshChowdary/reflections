@@ -5,3 +5,7 @@ Q1) What happens when you initialize a repository? Why do you need to do it?
 Q2) How is the staging area different from the working directory and the repository? What value do you think it offers??
 
     A) Git uses the intemediate area called the staging area. In the staging area you can git init, add , status before commits. After that you commit that adds that to the repository.
+
+ Q3) How can you use the staging area to make sure you have one commit per logical change?
+
+     A) Based on the logics,working time/hours we use the staging area.
