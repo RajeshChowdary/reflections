@@ -2,3 +2,6 @@ Q1) What happens when you initialize a repository? Why do you need to do it?
   
   A) intialized empty git repository in the home directory and .git directory is created and it is not show in the users.
   
+Q2) How is the staging area different from the working directory and the repository? What value do you think it offers??
+
+    A) Git uses the intemediate area called the staging area. In the staging area you can git init, add , status before commits. After that you commit that adds that to the repository.
