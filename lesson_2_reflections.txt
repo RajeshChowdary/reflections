@@ -17,4 +17,8 @@ Q2) How is the staging area different from the working directory and the reposit
  Q4) How do the diagrams help you visualize the branch structure?
   
      A) it helps to easily understand the branches in the repository.
+ 
+ Q5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+     A) After merging two branches, it will combines the two brances into one branch. I easily inderstand the branches.
      
